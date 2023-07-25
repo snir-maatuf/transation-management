@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "example.name",
+  "type": "java.lang.String",
+  "description": "user name of postgres"
+}]}
