@@ -74,9 +74,10 @@ Example JSON request:
   "name": "John Doe",
   "address": "123 Main Street"
 }
+'''
 
 Example JSON response:
-'''
+'''json
 {
   "id": 1,
   "name": "John Doe",
