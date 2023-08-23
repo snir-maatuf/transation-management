@@ -141,3 +141,4 @@ Example JSON response:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+<img src="https://t.bkit.co/w_64e60f64e5371.gif" />
