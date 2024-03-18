@@ -123,21 +123,22 @@ The application provides the following RESTful API endpoints:
 Example JSON request:
 
     {
-    "name": "John Doe",
-    "address": "123 Main Street"
+    "name": "Omer Omer",
+    "address": "123 Tel Aviv"
     }
     
 Example JSON response:
 
     {
     "id": 1,
-    "name": "John Doe",
+    "name": "Omer Omer",
 	"address": {
 		  "id": 1,
-		  "address": "123 Main Street"
+		  "address": "123 Tel Aviv"
           }
     }  
 
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+<img src="https://t.bkit.co/w_64e60f64e5371.gif" />
