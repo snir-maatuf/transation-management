@@ -123,18 +123,18 @@ The application provides the following RESTful API endpoints:
 Example JSON request:
 
     {
-    "name": "John Doe",
-    "address": "123 Main Street"
+    "name": "Omer Omer",
+    "address": "123 Tel Aviv"
     }
     
 Example JSON response:
 
     {
     "id": 1,
-    "name": "John Doe",
+    "name": "Omer Omer",
 	"address": {
 		  "id": 1,
-		  "address": "123 Main Street"
+		  "address": "123 Tel Aviv"
           }
     }  
 
